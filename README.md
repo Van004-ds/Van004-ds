@@ -19,9 +19,7 @@
 ---
 
 ## 🚀 Featured Projects  
-🔹 [📊 Sales Data Analysis & Forecasting](https://github.com/your-repo-link)  
-🔹 [📈 Financial Market Data Analysis](https://github.com/your-repo-link)  
-🔹 [📉 E-commerce Data Insights](https://github.com/your-repo-link)  
+ 
 
 💡 **More projects coming soon!**  
 
