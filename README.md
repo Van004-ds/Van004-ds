@@ -1,9 +1,8 @@
 # vanshika_negi
- Aspiring Data Scientist | AI &amp; Finance Enthusiast 📊 Building projects with Pandas, NumPy, Matplotlib | Exploring Data Science &amp;AI
-
+ Python , sql , power bi 
 #  Hi, I'm Vanshika Negi!  
 
-###  Aspiring Data Scientist | AI & Finance Enthusiast  
+###   
 
 ★  Passionate about Data Science & AI 
 ★  Building real-world projects using **Pandas, NumPy, Matplotlib**  
